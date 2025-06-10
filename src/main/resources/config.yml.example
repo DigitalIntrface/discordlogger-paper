@@ -1,0 +1,8 @@
+chat_webhook_url: "CHAT_WEBHOOK_HERE"
+cmd_webhook_url: "CMD_WEBHOOK_HERE"
+bot_name: "NAME_HERE"
+avatar_url: "AVATAR_URL_HERE"
+message_format: "(||%s||) <**`%s`**>: %s"
+command_format: "[CMD] (||%s||) **`%s`** executed command: `%s`"
+join_format: "[JOIN] **`%s` joined the game** (%s)"
+leave_format: "[LEAVE] **`%s` left the game** (%s)"

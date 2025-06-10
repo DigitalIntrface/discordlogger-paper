@@ -1,0 +1,4 @@
+name: DiscordLogger
+main: com.discordlogger.DiscordLogger
+version: 1.43.8
+api-version: 1.20
